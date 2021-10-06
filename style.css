@@ -15,11 +15,11 @@ con ajustes de "contrast ratio" https://webaim.org/resources/contrastchecker/
 /* cambien aquí sus colores, necesitan definir tres */
 
 :root {
-    --primercolor: #222;
-    --segundocolor: #666; /* menos luminoso y más saturado que el primero */
-    --tercercolor: #aaa; /* más luminoso y menos saturado que el primero */
-    --colorclaro: rgba(255, 255, 255, 0.9);
-    --coloroscuro: rgba(0, 0, 0, 0.9);
+    --primercolor: #d6d4d4;
+    --segundocolor: #222539; /* menos luminoso y más saturado que el primero */
+    --tercercolor: #ed715e; /* más luminoso y menos saturado que el primero */
+    --colorclaro: rgba(214, 212, 212, 1);
+    --coloroscuro: rgba(34, 37, 57, 1);
 }
 
 body {
